@@ -1,0 +1,1 @@
+void serial_menu_init (void){}
